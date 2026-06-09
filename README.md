@@ -66,7 +66,7 @@ This project is organized into multiple repositories following real-world separa
 Contains frontend and backend application code.
 
 Repository:
-https://github.com/YOUR_USERNAME/gitblog-complete-app
+https://github.com/rohanan07/gitblog-complete-app.git
 
 Contents:
 
@@ -84,7 +84,7 @@ Contents:
 Contains Terraform code used to provision AWS infrastructure.
 
 Repository:
-https://github.com/YOUR_USERNAME/gitblog-infra
+https://github.com/rohanan07/Gitblog-Infra-TF.git
 
 Resources Provisioned:
 
@@ -105,7 +105,7 @@ Resources Provisioned:
 Contains Helm Charts, ArgoCD Applications and deployment manifests.
 
 Repository:
-https://github.com/YOUR_USERNAME/gitblog-gitops
+https://github.com/rohanan07/Gitblog-Gitops-Repo.git
 
 Contents:
 
